@@ -1,0 +1,18 @@
+Proyecto Sistema de votación:
+PHP Versión 8.2.0
+Versión del servidor: 10.4.27-MariaDB - mariadb.org binary distribution.
+
+*Asegúrese de tener instalado Visual Studio u otro editor de código.
+*Asegúrese de tener instalado XAMPP para poder implementar un servidor web.
+*Descargue el proyecto y descomprímalo.
+*Copie la carpeta del proyecto y muévalo a esta ubicación: C:\xampp\htdocs (ubicación predeterminada al instalar XAMPP).
+*Abra XAMPP y seleccione Start en "Apache" y "MySQL".
+*En XAMPP, seleccione "Admin" en la sección "MySQL".
+*Ya dentro de phpMyAdmin, en la barra lateral izquierda seleccione la opción "Nueva".
+*En el nombre de la base de datos, escriba "Sistema_de_votacion" y seleccione "Crear".
+*Luego, en la barra superior, seleccione "Importar", "Seleccionar archivo", busque la carpeta que copió anteriormente, 
+dentro de la carpeta SQL, seleccione el archivo llamado "sistema_de_votacion.sql" y seleccione "Importar" al final de la página.
+*Ahora solo queda ingresar a una nueva pestaña del navegador, escribir http://localhost/Sistema_de_votacion/ 
+y de esta manera podrá observar el proyecto funcionando.
+*Si desea revisar el código, abra Visual Studio Code, seleccione "File", luego "Open folder" 
+y diríjase a esta dirección: C:\xampp\htdocs\Sistema_de_votacion.
